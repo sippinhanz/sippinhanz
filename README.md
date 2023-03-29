@@ -9,7 +9,9 @@
 
 Contact: kral.johan1@gmail.com
 
-🇨🇿🇺🇸Languages:
+speaking:🇨🇿czech🇺🇸English
+
+Languages:
 🌎C#
 ☕java
 🐘SQL
